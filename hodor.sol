@@ -2,7 +2,7 @@ pragma solidity ^0.4.0;
 // This tells the compiler that the contract is written for solidity compiler 0.4.0 or greater
 
 /*
-Simple contract that returns a greeting
+Simple contract that returns a greeting, just a simple code to explain each solidity code part
 */
 
  contract Hodor{
